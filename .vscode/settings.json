@@ -1,0 +1,17 @@
+{
+    "window.zoomLevel": 1,
+    "terminal.integrated.automationShell.osx": "/usr/local/bin/powershell",
+    "powershell.scriptAnalysis.enable": true,
+
+    "powershell.startAutomatically": true,
+    "powershell.integratedConsole.focusConsoleOnExecute": true, 
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
